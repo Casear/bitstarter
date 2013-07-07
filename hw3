@@ -1,0 +1,6 @@
+{
+    "div div div h1": true,
+    "div div.subheading": true,
+    "div.footer": true,
+    "title": true
+}
